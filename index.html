@@ -237,6 +237,9 @@
                         confirmButtonText: 'Okay'
                     });
 
+                    // Reset form fields after successful email submission
+                    document.getElementById("contact-form").reset();
+
                 }, function(error) {
                     console.log('Error:', error);
 
