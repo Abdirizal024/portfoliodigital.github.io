@@ -327,16 +327,6 @@ span {
 }
 
 
-/* Aturan khusus untuk tampilan mobile */
-
-@media (max-width: 600px) {
-    .rounded-image2 {
-        width: 250px;
-        /* Ukuran lebih kecil pada mode mobile */
-        height: 250px;
-    }
-}
-
 .portfolio {
     background: var(--second-bg-color);
 }
