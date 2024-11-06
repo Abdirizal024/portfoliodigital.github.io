@@ -326,28 +326,6 @@ span {
     width: 88%;
 }
 
-.rounded-image {
-    width: 300px;
-    /* Sesuaikan ukuran gambar */
-    height: 300px;
-    /* Pastikan tinggi dan lebar sama untuk bentuk bulat */
-    border-radius: 50%;
-    /* Membuat gambar menjadi bulat */
-    object-fit: cover;
-    /* Menyesuaikan gambar agar tidak terdistorsi */
-}
-
-.rounded-image2 {
-    width: 350px;
-    /* Sesuaikan ukuran gambar */
-    height: 350px;
-    /* Pastikan tinggi dan lebar sama untuk bentuk bulat */
-    border-radius: 100%;
-    /* Membuat gambar menjadi bulat */
-    object-fit: cover;
-    /* Menyesuaikan gambar agar tidak terdistorsi */
-}
-
 
 /* Aturan khusus untuk tampilan mobile */
 
